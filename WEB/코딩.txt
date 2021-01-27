@@ -1,0 +1,14 @@
+<strong> </strong> <u> <h1~6> 
+<p> <br>시각적 자유도 올라감
+<ul><ol> <li>
+<title>
+<meta charset="utf-8">
+
+<!doctype html>
+<html>
+<head></head>
+<body></body>
+</html>
+
+<a href="사이트" target="_blank" title="html5 specification">
+<a링크걸고싶은곳 heref> 
